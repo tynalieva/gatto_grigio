@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87512c5d.chunk.css",
+    "main.js": "/static/js/main.4c32c30a.chunk.js",
+    "main.js.map": "/static/js/main.4c32c30a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.938a3a6d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.938a3a6d.js.map",
+    "static/js/2.8f67f592.chunk.js": "/static/js/2.8f67f592.chunk.js",
+    "static/js/2.8f67f592.chunk.js.map": "/static/js/2.8f67f592.chunk.js.map",
+    "static/js/3.0ff0112e.chunk.js": "/static/js/3.0ff0112e.chunk.js",
+    "static/js/3.0ff0112e.chunk.js.map": "/static/js/3.0ff0112e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.87512c5d.chunk.css.map": "/static/css/main.87512c5d.chunk.css.map",
+    "static/js/2.8f67f592.chunk.js.LICENSE.txt": "/static/js/2.8f67f592.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/GilroyThin.fc813b75.ttf",
+    "static/media/bedroom.styles.scss": "/static/media/bedroom.014ef340.png",
+    "static/media/books.styles.scss": "/static/media/books.2bf3e7a2.png",
+    "static/media/cabinet.styles.scss": "/static/media/cabinet.07ea9a19.png",
+    "static/media/garden.styles.scss": "/static/media/garden.86dc925d.png",
+    "static/media/hero.styles.scss": "/static/media/house.78c092d6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.938a3a6d.js",
+    "static/js/2.8f67f592.chunk.js",
+    "static/css/main.87512c5d.chunk.css",
+    "static/js/main.4c32c30a.chunk.js"
+  ]
+}
